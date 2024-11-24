@@ -28,11 +28,17 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 </div>
 
-## Web Application Security
+### Web Application Security
 <div>
   <img src="https://img.shields.io/badge/-Burp%20Suite-FF8800?style=for-the-badge&logo=burp-suite&logoColor=white" />
 </div>
-    
+
+### Cryptography
+<div>
+    <img src="https://img.shields.io/badge/-John%20the%20Ripper-000000?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Hashcat-800080?style=for-the-badge&logoColor=white" />
+</div>
+
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
