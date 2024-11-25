@@ -13,7 +13,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Metasploit for vulnerability assessment and exploitation | <a href="https://google.com">Metasploit Project|
+| Metasploit for Vulnerability Assessment and Exploitation | <a href="https://google.com">Metasploit Project|
+| Using In-memory Payloads for Post-exploitation | <a href="https://google.com">Metasploit Project|
 | SIEM Implementation and Log Anal          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
