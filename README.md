@@ -13,7 +13,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Metasploit for Vulnerability Assessment and Exploitation | <a href="https://google.com">Metasploit Project|
+| Metasploit for Vulnerability Assessment and Exploitation | <a href="https://github.com/ozkaraonur/projects/blob/main/metasploit.md">Metasploit Labs|
 | Using In-memory Payloads for Post-exploitation | <a href="https://google.com">Metasploit Project|
 | SIEM Implementation and Log Anal          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
