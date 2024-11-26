@@ -13,8 +13,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Metasploit for Vulnerability Assessment and Exploitation | <a href="https://github.com/ozkaraonur/projects/blob/main/metasploit.md">Metasploit Labs|
-| Using In-memory Payloads for Post-exploitation | <a href="https://github.com/ozkaraonur/projects/blob/main/metasploit.md">Metasploit Labs|
+| Metasploit for Vulnerability Assessment and Exploitation | <a href="https://github.com/ozkaraonur/projects/blob/main/metasploit-blue.md">Blue|
+| Using In-memory Payloads for Post-exploitation | <a href="https://github.com/ozkaraonur/projects/blob/main/metasploit-blue.md">Blue|
 | SIEM Implementation and Log Anal          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
@@ -49,7 +49,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <a href="https://github.com/ozkaraonur/ozkaraonur/blob/main/THM-PBCJCG3FGX.pdf" target="_blank">
   <img src="https://img.shields.io/badge/-Pre%20Security-0078D7?style=for-the-badge&logo=TryHackMe&logoColor=white" alt="Pre Security Badge" />
