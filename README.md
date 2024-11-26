@@ -9,7 +9,6 @@ I am a recent graduate with a profound interest in technology and a dedication t
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field. I'm excited to contribute and grow as a professional in this dynamic industry.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -23,7 +22,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -53,10 +51,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <a href="https://github.com/ozkaraonur/ozkaraonur/blob/main/THM-PBCJCG3FGX.pdf" target="_blank">
   <img src="https://img.shields.io/badge/-Pre%20Security-0078D7?style=for-the-badge&logo=TryHackMe&logoColor=white" alt="Pre Security Badge" />
 </a>
-
-
 </div>
 
 ## Projects
-- <a href="https://github.com/ozkaraonur/projects/blob/main/metasploit.md">Metasploit Labs
-- SOC Automation Project
+- <a href="https://github.com/ozkaraonur/projects/blob/main/metasploit-blue.md">Blue
