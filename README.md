@@ -55,6 +55,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-TBR6NITG5I.pdf" target="_blank">
     <img src="https://img.shields.io/badge/-Cyber%20Security%20101-0078D7?style=for-the-badge&logo=TryHackMe&logoColor=white" alt="Cyber Security 101 Badge" />
 </a>
+<a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-HPCWPIGY4O.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/-Web%20Fundamentals-0078D7?style=for-the-badge&logo=TryHackMe&logoColor=white" alt="Web Fundamentals Badge" />
+
+</a>
 </div>
 
 ## Projects
