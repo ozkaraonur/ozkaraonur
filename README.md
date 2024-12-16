@@ -15,12 +15,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 |-----------------------------------------------|----------------------------|
 | Metasploit for Vulnerability Assessment and Exploitation | <a href="https://github.com/ozkaraonur/projects/blob/main/metasploit-blue.md">Blue|
 | Using In-memory Payloads for Post-exploitation | <a href="https://github.com/ozkaraonur/projects/blob/main/metasploit-blue.md">Blue|
-| SIEM Implementation and Log Anal          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Application vulnerability detection and exploitation | <a href="https://github.com/ozkaraonur/projects/blob/main/Vulnerability-Capstone.md">Vulnerability Capstone|
+| Setting up reverse shells for post-exploitation | <a href="https://github.com/ozkaraonur/projects/blob/main/Vulnerability-Capstone.md">Vulnerability Capstone|
 
 ## Tools
 
@@ -65,5 +61,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </a>
 </div>
 
-## Projects
+## Projects & CTFs
 - <a href="https://github.com/ozkaraonur/projects/blob/main/metasploit-blue.md">Blue
+- <a href="https://github.com/ozkaraonur/projects/blob/main/Vulnerability-Capstone.md">Vulnerability Capstone
+  
