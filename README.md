@@ -60,6 +60,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-BB0N0OHRYW.pdf" target="_blank">
         <img src="https://img.shields.io/badge/-Jr%20Penetration%20Tester-0078D7?style=for-the-badge&logo=TryHackMe&logoColor=white" alt="Web Fundamentals Badge" />
 </a>
+    <img src="https://img.shields.io/badge/-CompTIA%20Security%2B-EE0000?style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA Security+ Badge" />
+    <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional%20Certificate-4285F4?style=for-the-badge&logo=Google&logoColor=white" alt="Security+" />
 </a>
 </div>
 
