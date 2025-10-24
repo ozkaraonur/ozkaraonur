@@ -1,13 +1,13 @@
 # Hello, I'm Onur Özkara
 
 <a href="https://linkedin.com/in/onur-özkara-b15187198/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:ozkaraonur13@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:oo01578@surrey.ac.uk"><img src="https://img.shields.io/badge/-Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Currently having my postgraduate cyber security course in University of Surrey with a profound interest in technology and a dedication to solving complex problems.
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field. I'm excited to contribute and grow as a professional in this dynamic industry.
+My journey in computer science has led me to develop a passion for cyber security, and I am now eager to transition into this field. I'm excited to contribute and grow as a professional in this dynamic industry.
 
 ## Skills
 
