@@ -55,7 +55,6 @@ My journey in computer science has led me to develop a passion for cyber securit
 <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-HPCWPIGY4O.pdf" target="_blank">
     <img src="https://img.shields.io/badge/-Web%20Fundamentals-0078D7?style=for-the-badge&logo=TryHackMe&logoColor=white" alt="Web Fundamentals Badge" />
 </a>
-<a>
     <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-BB0N0OHRYW.pdf" target="_blank">
         <img src="https://img.shields.io/badge/-Jr%20Penetration%20Tester-0078D7?style=for-the-badge&logo=TryHackMe&logoColor=white" alt="Web Fundamentals Badge" />
 </a>
@@ -63,6 +62,7 @@ My journey in computer science has led me to develop a passion for cyber securit
 <a href="https://coursera-certificate-images.s3.amazonaws.com/5KP08QHI3Q1A" target="_blank">
     <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional%20Certificate-4285F4?style=for-the-badge&logo=Google&logoColor=white" alt="Security+" />
 </a>
+<img src="https://img.shields.io/badge/-AWS%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Cloud Practitioner Badge" />
 </div>
 
 ## Projects & CTFs
