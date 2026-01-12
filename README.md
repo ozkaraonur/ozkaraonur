@@ -13,13 +13,11 @@ My journey in computer science has led me to develop a passion for cyber securit
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Metasploit for Vulnerability Assessment and Exploitation | <a href="https://github.com/ozkaraonur/projects/blob/main/metasploit-blue.md">Blue|
-| Using In-memory Payloads for Post-exploitation | <a href="https://github.com/ozkaraonur/projects/blob/main/metasploit-blue.md">Blue|
-| Application vulnerability detection and exploitation | <a href="https://github.com/ozkaraonur/projects/blob/main/Vulnerability-Capstone.md">Vulnerability Capstone|
-| Setting up reverse shells for post-exploitation | <a href="https://github.com/ozkaraonur/projects/blob/main/Vulnerability-Capstone.md">Vulnerability Capstone|
-| Risk Assessment & Compliance | <a href="https://github.com/ozkaraonur/projects_security/tree/main/Security%20Audit">Security Audit|
-| Security Controls Implementation & Evaluation | <a href="https://github.com/ozkaraonur/projects_security/tree/main/Security%20Audit">Security Audit|
+| Metasploit for Vulnerability Assessment and Exploitation, Using In-memory Payloads for Post-exploitation | <a href="https://github.com/ozkaraonur/projects/blob/main/metasploit-blue.md">Blue|
+| Application vulnerability detection and exploitation, Setting up reverse shells for post-exploitation | <a href="https://github.com/ozkaraonur/projects/blob/main/Vulnerability-Capstone.md">Vulnerability Capstone|
+| Security Controls Implementation & Evaluation, Risk Assessment & Compliance  | <a href="https://github.com/ozkaraonur/projects_security/tree/main/Security%20Audit">Security Audit|
 | Secure API Orchestration, Defensive Input Sanitization, Sensitive Data Handling | <a href="https://github.com/ozkaraonur/currency-sentinel">Currency Sentinel|
+| Cryptographic Randomness, Automated Complexity Enforcement, Secure Default Policy | <a href="https://github.com/ozkaraonur/random-password-generator">Random Password Generator|
 
 ## Tools
 
@@ -72,4 +70,5 @@ My journey in computer science has led me to develop a passion for cyber securit
 - <a href="https://github.com/ozkaraonur/projects/blob/main/Vulnerability-Capstone.md">Vulnerability Capstone
 - <a href="https://github.com/ozkaraonur/projects_security/tree/main/Security%20Audit">Security Audit
 - <a href="https://github.com/ozkaraonur/currency-sentinel">Currency Sentinel
+- <a href="https://github.com/ozkaraonur/random-password-generator">Random Password Generator
   
