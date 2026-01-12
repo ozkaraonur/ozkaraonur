@@ -19,6 +19,7 @@ My journey in computer science has led me to develop a passion for cyber securit
 | Setting up reverse shells for post-exploitation | <a href="https://github.com/ozkaraonur/projects/blob/main/Vulnerability-Capstone.md">Vulnerability Capstone|
 | Risk Assessment & Compliance | <a href="https://github.com/ozkaraonur/projects_security/tree/main/Security%20Audit">Security Audit|
 | Security Controls Implementation & Evaluation | <a href="https://github.com/ozkaraonur/projects_security/tree/main/Security%20Audit">Security Audit|
+| Secure API Orchestration, Defensive Input Sanitization, Sensitive Data Handling | <a href="https://github.com/ozkaraonur/currency-sentinel">Currency Sentinel|
 
 ## Tools
 
@@ -70,4 +71,5 @@ My journey in computer science has led me to develop a passion for cyber securit
 - <a href="https://github.com/ozkaraonur/projects/blob/main/metasploit-blue.md">Blue
 - <a href="https://github.com/ozkaraonur/projects/blob/main/Vulnerability-Capstone.md">Vulnerability Capstone
 - <a href="https://github.com/ozkaraonur/projects_security/tree/main/Security%20Audit">Security Audit
+- <a href="https://github.com/ozkaraonur/currency-sentinel">Currency Sentinel
   
